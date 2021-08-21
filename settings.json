@@ -1,23 +1,23 @@
 {
   "tokens": {
-    "main": "",
+    "main": "ODc4NzIzODU1NjY4MTA5NDQz.YSFVsg.O51h_0L_EIm-NhNJxA6C2l4kYg8",
     "alts": [
       ""
     ]
   },
   "status": {
-    "main": "",
+    "main": "idle",
     "alts": "invisible"
   },
   "nitro": {
-    "max": 2,
-    "cooldown": 24,
+    "max": 100,
+    "cooldown": 0,
     "main_sniper": true,
-    "delay": true
+    "delay": false
   },
   "giveaway": {
     "enable": true,
-    "delay": 15,
+    "delay": 5,
     "dm": "Hey, I won a giveaway !",
     "dm_delay": 25,
     "blacklist_words": [
@@ -26,24 +26,24 @@
       "ban"
     ],
     "whitelist_words": [
-      "nitro"
+      "[]"
     ],
     "blacklist_servers": []
   },
   "invite": {
     "enable": true,
     "delay": {
-      "min": 10,
-      "max": 20
+      "min": 0,
+      "max": 0
     },
-    "max": 10,
-    "cooldown": 6
+    "max": 100,
+    "cooldown": 0
   },
   "privnote": {
-    "enable": false
+    "enable": true
   },
   "webhook": {
-    "url": "",
+    "url": "https://discord.com/api/webhooks/878725956771139644/reiJPXZtymV-v9YlAC9nVp7GCSDdqr3cxokU_KBuJKGkPZIzksETu-SwtqJxthAc0B5l",
     "good_only": false
   },
   "blacklist_servers": []
