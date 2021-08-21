@@ -1,6 +1,6 @@
 {
   "tokens": {
-    "main": "ODc4NzIzODU1NjY4MTA5NDQz.YSFVsg.O51h_0L_EIm-NhNJxA6C2l4kYg8",
+    "main": "ODc4NzIzODU1NjY4MTA5NDQz.YSFszA.GFLPdSMUB_883fJS8cPeSkwoUc0",
     "alts": [
       ""
     ]
@@ -10,14 +10,14 @@
     "alts": "invisible"
   },
   "nitro": {
-    "max": 100,
-    "cooldown": 0,
+    "max": 10,
+    "cooldown": 3,
     "main_sniper": true,
-    "delay": false
+    "delay": true
   },
   "giveaway": {
     "enable": true,
-    "delay": 5,
+    "delay": 10,
     "dm": "Hey, I won a giveaway !",
     "dm_delay": 25,
     "blacklist_words": [
@@ -33,8 +33,8 @@
   "invite": {
     "enable": true,
     "delay": {
-      "min": 0,
-      "max": 0
+      "min": 10,
+      "max": 20
     },
     "max": 100,
     "cooldown": 0
